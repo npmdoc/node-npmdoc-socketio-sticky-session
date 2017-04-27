@@ -1,6 +1,6 @@
 # npmdoc-socketio-sticky-session
 
-#### api documentation for  [socketio-sticky-session (v0.4.2)](https://github.com/wzrdtales/socket-io-sticky-session)  [![npm package](https://img.shields.io/npm/v/npmdoc-socketio-sticky-session.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-socketio-sticky-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-socketio-sticky-session.svg)](https://travis-ci.org/npmdoc/node-npmdoc-socketio-sticky-session)
+#### basic api documentation for  [socketio-sticky-session (v0.4.2)](https://github.com/wzrdtales/socket-io-sticky-session)  [![npm package](https://img.shields.io/npm/v/npmdoc-socketio-sticky-session.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-socketio-sticky-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-socketio-sticky-session.svg)](https://travis-ci.org/npmdoc/node-npmdoc-socketio-sticky-session)
 
 #### Sticky session balancer with layer 4 capabilities, based on a `cluster` module
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.4.2"
+    "version": "0.4.2",
+    "bin": {}
 }
 ```
 
